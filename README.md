@@ -2,12 +2,12 @@
 _This portfolio is a collection of projects that showcase my tools and skills as a Data Scientist. My goal is to demonstrate my technical expertise, analytical mindset, and passion for storytelling._
 
 ## Technologies Used
-** Languages **
+**Languages**
 - Python
 - SQL
 - R
 
-** Libraries **
+**Libraries**
 _Python_
 - Pandas
 - Numpy
