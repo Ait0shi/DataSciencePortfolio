@@ -1,8 +1,5 @@
 # DataSciencePortfolio
-#### Ai Paula Couto DSC 680
----
-***
----
+[Ai Paula Couto DSC 680] (https://www.linkedin.com/in/aipaulacouto/)
 
 _This portfolio is a collection of projects that showcase my tools and skills as a Data Scientist. My goal is to demonstrate my technical expertise, analytical mindset, and passion for storytelling._
 
