@@ -1,4 +1,4 @@
-** Email:** *aipaulacouto@gmail.com*
+**Email:** *aipaulacouto@gmail.com*
 ---
 
 >This portfolio is a collection of projects that showcase my tools and skills as a Data Scientist.
