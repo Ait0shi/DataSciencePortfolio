@@ -15,4 +15,6 @@ Description: This Python program allows users to look up the weather for any loc
 [Project 5: Renewable Energy and Climate Change Data](https://github.com/Ait0shi/RenewableEnergyAndClimateChange)
 
 Description: This R program aims to show the relationship between renewable energy and climate change by plotting changes in the use of renewable energy and climate indicators among major cities worldwide
+
 [Project 6: Housing Data Analysis](https://github.com/Ait0shi/HousingAnalysis)
+Description: This R program applies statistical correlation and multiple regression to determine if there is a relationship between Sales Price and predictors such as number of bedrooms, number of bathrooms, zip code, etc.
