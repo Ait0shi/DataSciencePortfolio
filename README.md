@@ -1,8 +1,3 @@
-Email: ==aipaulacouto@gmail.com==
----
-
->This portfolio is a collection of projects that showcase my tools and skills as a Data Scientist.
->My goal is to demonstrate my technical expertise, analytical mindset, and passion for storytelling.
 
 [Project 1: Hospital Readmissions](https://github.com/Ait0shi/Hospital_Readmissions)
 This machine learning project uses Logistic Regression and Random Forest Classification to predict a diabetic patient's likelihood of hospital readmission
