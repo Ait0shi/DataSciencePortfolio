@@ -1,3 +1,4 @@
+# Feel free to explore the different data science projects I've worked on!
 
 [Project 1: Hospital Readmissions](https://github.com/Ait0shi/Hospital_Readmissions)
 This machine learning project uses Logistic Regression and Random Forest Classification to predict a diabetic patient's likelihood of hospital readmission
