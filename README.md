@@ -22,4 +22,7 @@ Description: This R program applies statistical correlation and multiple regress
 [Project 7: Netflix Viewership Analysis](https://github.com/Ait0shi/netflix_viewership_analysis/blob/main/NETFLIX.pdf)
 
 Netflix, as a global streaming company, has played a major role in providing a platform for movies and shows around the world to be seen in different countries. Data from late 2021 through early this year shows that this strategic move is not only a fruitful venture but also
-something that the company should invest more in. A table showing the top 3 English and non-English movies brings about a list of foreign films that have made their place as a cultural icon, not only in the United States but also worldwide. 
+something that the company should invest more in. A table showing the top 3 English and non-English movies brings about a list of foreign films that have made their place as a cultural icon, not only in the United States but also worldwide.
+
+[Project 8: The Randomosity of Lottery Drawings](https://github.com/Ait0shi/Lottery_Randomosity)
+Can we use Machine Learning models to predict the next winning lottery numbers?
