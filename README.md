@@ -25,7 +25,7 @@ Netflix, as a global streaming company, has played a major role in providing a p
 something that the company should invest more in. A table showing the top 3 English and non-English movies brings about a list of foreign films that have made their place as a cultural icon, not only in the United States but also worldwide.
 
 [Project 8: The Randomosity of Lottery Drawings](https://github.com/Ait0shi/Lottery_Randomosity)
-Can we use Machine Learning models to predict the next winning lottery numbers? This 
+Can we use Machine Learning models to predict the next winning lottery numbers? This blogpost showcases visualizes data from the Lottery Drawings using Power Bi
 
 [Project 9: An analysis of childcare prices using Power Bi](https://github.com/Ait0shi/Childcare_Prices)
 The National Database of Childcare Prices is a technical report developed by the U.S. Department of Labor Women’s Bureau to promote opportunities for women to find employment. This study tries to understand how childcare, or lack thereof, could be a hindrance to a woman’s ability to obtain or maintain a job. For this project, I wanted to focus on my city to understand how its statistics compare to the National Average
